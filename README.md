@@ -60,11 +60,5 @@ uvicorn app.main:app --reload
 }
 
 
-Scroll down.
-
-Commit message:
-
 ```text
 docs: add product API example
-
-Commit directly to the feature/product-api branch
