@@ -48,3 +48,23 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+
+
+## Example Product
+
+```json
+{
+  "name": "Laptop",
+  "price": 55000,
+  "quantity": 5
+}
+
+
+Scroll down.
+
+Commit message:
+
+```text
+docs: add product API example
+
+Commit directly to the feature/product-api branch
